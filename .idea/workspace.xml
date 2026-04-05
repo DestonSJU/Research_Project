@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Upload required python packages">
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-console-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-fibers-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-fibers-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-kernel32-legacy-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-sysinfo-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/attach.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/awt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/dt_shmem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/dt_socket.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/extnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/fontmanager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/freetype.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/instrument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/j2gss.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/j2pcsc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/j2pkcs11.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jaas.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jabswitch.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jaccessinspector.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jaccesswalker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jarsigner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/java.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/java.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/javaaccessbridge.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/javac.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/javadoc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/javajpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/javap.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/javaw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jawt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jcmd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jconsole.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jdb.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jdeprscan.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jdeps.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jdwp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jfr.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jhsdb.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jimage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jimage.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jinfo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jlink.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jmap.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jmod.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jnativescan.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jpackage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jpackage.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jps.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jrunscript.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jshell.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jsound.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jstack.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jstat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jstatd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jsvml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/jwebserver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/keytool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/kinit.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/klist.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/ktab.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/lcms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/management.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/management_agent.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/management_ext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/mlib_image.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/nio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/prefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/rmi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/rmiregistry.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/saproc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/serialver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/server/classes.jsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/server/classes_coh.jsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/server/classes_nocoops.jsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/server/classes_nocoops_coh.jsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/server/jvm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/splashscreen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/sspi_bridge.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/sunmscapi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/syslookup.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/vcruntime140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/verify.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/w2k_lsa_auth.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/windowsaccessbridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/bin/zip.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/jaxp-strict.properties.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/jaxp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/management/jmxremote.access" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/management/jmxremote.password.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/management/management.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/security/policy/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/security/policy/limited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/security/policy/limited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/security/policy/limited/exempt_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/security/policy/unlimited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/security/policy/unlimited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/conf/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/classfile_constants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/jawt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/jdwpTransport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/jni.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/jvmti.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/jvmticmlr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/win32/bridge/AccessBridgeCallbacks.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/win32/bridge/AccessBridgeCalls.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/win32/bridge/AccessBridgePackages.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/win32/jawt_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/include/win32/jni_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/aes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/c-libutl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/icu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/public_suffix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/siphash.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/unicode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/wepoll.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.base/zlib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.compiler/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.compiler/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.datatransfer/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.datatransfer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/colorimaging.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/freetype.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/giflib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/harfbuzz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/jpeg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/lcms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/libpng.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.desktop/mesa3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.instrument/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.instrument/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.instrument/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.logging/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.logging/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.logging/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.management.rmi/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.management.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.management/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.management/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.naming/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.naming/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.naming/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.net.http/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.net.http/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.net.http/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.prefs/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.prefs/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.prefs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.rmi/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.rmi/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.scripting/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.scripting/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.scripting/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.se/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.se/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.se/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.security.jgss/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.security.jgss/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.security.sasl/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.security.sasl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.smartcardio/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.smartcardio/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.sql.rowset/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.sql.rowset/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.sql/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.sql/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.sql/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.transaction.xa/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.transaction.xa/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml.crypto/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml.crypto/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml.crypto/santuario.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/bcel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/dom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/jcup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/schema10part1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/schema10part2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/xalan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/xerces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/xhtml10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/xhtml10schema.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/xhtml11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/xhtml11schema.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/xmlspec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/java.xml/xmlxsd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.accessibility/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.accessibility/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.attach/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.attach/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.attach/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.charsets/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.charsets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.compiler/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.cryptoki/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.cryptoki/pkcs11wrapper.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.ec/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.mscapi/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.mscapi/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.crypto.mscapi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.dynalink/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.dynalink/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.dynalink/dynalink.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.editpad/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.editpad/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.editpad/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.graal.compiler.management/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.graal.compiler.management/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.graal.compiler.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.graal.compiler/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.graal.compiler/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.graal.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.hotspot.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.httpserver/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.httpserver/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.incubator.vector/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.incubator.vector/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.incubator.vector/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.ed/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.jvmstat/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.le/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.le/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.le/jline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.md/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.md/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.md/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.md/commonmark.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.opt/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.opt/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.opt/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.opt/jopt-simple.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.internal.vm.ci/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jartool/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jartool/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jartool/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.javadoc/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.javadoc/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.javadoc/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.javadoc/dejavufonts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.javadoc/highlightjs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.javadoc/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.javadoc/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jcmd/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jcmd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jconsole/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jconsole/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jconsole/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdeps/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdeps/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdeps/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdi/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jdwp.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jfr/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jfr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jlink/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jlink/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jlink/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jpackage/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jpackage/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jpackage/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jshell/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jshell/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jshell/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jsobject/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jsobject/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jstatd/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jstatd/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.jstatd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.localedata/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.localedata/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.localedata/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.localedata/thaidict.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management.agent/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management.jfr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.naming.dns/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.naming.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.net/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.net/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.net/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.nio.mapmode/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.nio.mapmode/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.nio.mapmode/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.sctp/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.sctp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.security.auth/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.security.auth/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.security.jgss/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.unsupported.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.unsupported/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.unsupported/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.xml.dom/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.zipfs/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/legal/jdk.zipfs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/classlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/ct.sym" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/jawt.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/jfr/default.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/jfr/profile.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/jrt-fs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/jvm.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/modules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/security/blocked.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/security/public_suffix_list.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/lib/tzmappings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenJDK25U/jdk-25.0.2+10/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Files/Java_Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Files/Java_Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Files/Java_Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AI_Grading_Assistant.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/File_App.py" beforeDir="false" afterPath="$PROJECT_DIR$/File_App.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Files/Text1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Files/Text2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Files/Text3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Files/start" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DestonSJU&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DestonSJU/Research_Project.git&quot;,
+    &quot;accountId&quot;: &quot;c74ea1da-85ad-4c10-96f0-636b7ca0b8e6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3BoXLpnsVe4F0StIunPOqOnzcAU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.File_App.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/desto/PycharmProjects/Research_Project",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\desto\PycharmProjects\Research_Project" />
+      <recent name="C:\Users\desto\PycharmProjects\Research_Project\Test_Files" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="" />
+      <created>1775156344021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775156344021</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Upload required python packages">
+      <option name="closed" value="true" />
+      <created>1775223339438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775223339438</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload required python packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload required python packages" />
+  </component>
+</project>
