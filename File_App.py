@@ -5,6 +5,7 @@ import shutil
 import subprocess
 import tempfile
 import re
+import pdfplumber
 from typing import Annotated, TypedDict, Union
 from langchain_classic.agents import tools
 from langchain_ollama import ChatOllama, OllamaEmbeddings
@@ -49,6 +50,7 @@ llm = ChatOllama(model="llama3.1:8b", temperature=0.0).bind_tools(tools, tool_ch
 class AgentState(TypedDict):
     # Add_messages is a specialized reducer that appends new messages to history
     messages: Annotated[list[BaseMessage], add_messages]
+    grading_rubric: str
     # Output is used to store and display the output returned by the java_compiler tool
     output: AIMessage
 
@@ -59,6 +61,7 @@ def call_model(state: AgentState):
     to call a tool or provide a final answer.
     """
     messages = state['messages']
+    grading_rubric = state['grading_rubric']
     # If tool was called before, the LLM's response and the output from the tool are returned
     for m in messages:
         if isinstance(m, ToolMessage):
@@ -67,9 +70,9 @@ def call_model(state: AgentState):
     # Inject system instructions if this is the start of the thread
     if len(messages) <= 1:
         system_prompt = SystemMessage(
-            content= "You are a grading assistant."
+            content= "You are a grading assistant. You MUST run the code to evaluate it and give it a grade based on this rubric: " + grading_rubric,
         )
-        messages = [system_prompt] + messages
+        messages = [system_prompt]  + messages
 
     # Returns the LLM's response when the tool was not called
     response = llm.invoke(messages)
@@ -116,13 +119,21 @@ def reset_button():
 # Tells the model to run and generate a response
 def run_model_button():
     with st.spinner("Executing Local Workflow..."):
-        result = app.invoke({"messages": [HumanMessage(content=file_input.read().decode("utf-8"))]})
+        result = app.invoke({"messages": [HumanMessage(content=file_input.read().decode("utf-8"))], "rubric": rubric_text})
         # Displays the output from the code and the LLM's response to it
         final_answer = "Output:" + "\n\n" + result["output"].content + "\n\n" + result["messages"][-1].content
         st.session_state.chat_history.append(AIMessage(final_answer))
 
 # Sidebar for Reset button
 with st.sidebar:
+    st.title("Upload Grading Rubric")
+    rubric = st.file_uploader(label="Please Upload a PDF File containing the grading rubric", type=["pdf"])
+    if rubric:
+        rubric_text = ""
+        with pdfplumber.open(rubric) as pdf:
+            for page in pdf.pages:
+                rubric_text = rubric_text + page.extract_text()
+        st.success("Grading Rubric Uploaded")
     st.title("Reset Chat History")
     st.button("Reset", on_click= reset_button)
 
