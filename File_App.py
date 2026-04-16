@@ -50,7 +50,7 @@ llm = ChatOllama(model="llama3.1:8b", temperature=0.0).bind_tools(tools, tool_ch
 class AgentState(TypedDict):
     # Add_messages is a specialized reducer that appends new messages to history
     messages: Annotated[list[BaseMessage], add_messages]
-    grading_rubric: str
+    rubric: str
     # Output is used to store and display the output returned by the java_compiler tool
     output: AIMessage
 
@@ -61,7 +61,7 @@ def call_model(state: AgentState):
     to call a tool or provide a final answer.
     """
     messages = state['messages']
-    grading_rubric = state['grading_rubric']
+    grading_rubric = state['rubric']
     # If tool was called before, the LLM's response and the output from the tool are returned
     for m in messages:
         if isinstance(m, ToolMessage):
