@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Upload required python packages" />
+    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Commit Changes for Report 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +76,39 @@
       <option name="project" value="LOCAL" />
       <updated>1775223339438</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Changes for Report 2">
+      <option name="closed" value="true" />
+      <created>1775363372700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775363372700</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit Changes for Report 2">
+      <option name="closed" value="true" />
+      <created>1775363541805</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775363541805</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit Changes for Report 2">
+      <option name="closed" value="true" />
+      <created>1775363582459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775363582459</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit Changes for Report 2">
+      <option name="closed" value="true" />
+      <created>1775363600517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775363600517</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upload required python packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload required python packages" />
+    <MESSAGE value="Commit Changes for Report 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Changes for Report 2" />
   </component>
 </project>
