@@ -43,7 +43,8 @@ def java_compiler(code: str):
 
 # Java Compiler is added to tools that the LLM can use
 tools = [java_compiler]
-llm = ChatOllama(model="llama3.1:8b", temperature=0.0).bind_tools(tools, tool_choice="required")
+llm = ChatOllama(model="qwen2.5-coder", temperature=0.0).bind_tools(tools, tool_choice="required")
+llm = ChatOllama(model="llama3.1:8b", temperature=0.0).bind_tools(tools)
 
 
 # State Class is defined
@@ -53,6 +54,8 @@ class AgentState(TypedDict):
     rubric: str
     # Output is used to store and display the output returned by the java_compiler tool
     output: AIMessage
+
+# def run_code(state: AgentState):
 
 def call_model(state: AgentState):
     """
@@ -70,7 +73,8 @@ def call_model(state: AgentState):
     # Inject system instructions if this is the start of the thread
     if len(messages) <= 1:
         system_prompt = SystemMessage(
-            content= "You are a grading assistant. You MUST run the code to evaluate it and give it a grade based on this rubric: " + grading_rubric,
+            content= "You are a grading assistant. You MUST run the code to evaluate it and "
+                     "give it a grade based on this rubric: " + grading_rubric,
         )
         messages = [system_prompt]  + messages
 
@@ -90,9 +94,12 @@ def should_continue(state: AgentState):
     # If the LLM didn't request a tool, loop is finished
     return END
 
+
+
 # Construct the Graph
 workflow = StateGraph(AgentState)
 
+# Define the two nodes in the cycle
 # Define the two nodes in the cycle
 workflow.add_node("agent", call_model)
 workflow.add_node("tools", ToolNode(tools))
@@ -101,6 +108,7 @@ workflow.add_node("tools", ToolNode(tools))
 workflow.set_entry_point("agent")
 workflow.add_conditional_edges("agent", should_continue)
 workflow.add_edge("tools", "agent") # Loops back after tool execution
+
 
 # Compile into a runnable application
 app = workflow.compile()

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Upload required python packages">
-      <change beforePath="$PROJECT_DIR$/.idea/Research_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Research_Project.iml" afterDir="false" />
+    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Small changes for Report 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/File_App.py" beforeDir="false" afterPath="$PROJECT_DIR$/File_App.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775223339438</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Small changes for Report 3">
+      <option name="closed" value="true" />
+      <created>1776347476059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776347476059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upload required python packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload required python packages" />
+    <MESSAGE value="Small changes for Report 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small changes for Report 3" />
   </component>
 </project>
