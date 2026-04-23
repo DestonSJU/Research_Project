@@ -1,0 +1,43 @@
+{
+  "criteria": [
+    {
+      "name": "compilation",
+      "points": 20,
+      "description": "Code compiles and runs without errors. 5 points are deducted for every syntax error in code",
+      "actual code output": ""
+    },
+    {
+      "name": "test 1",
+      "points": 10,
+      "description": "The code with the specified input returns the expected output",
+      "test":
+        {
+          "input": "5",
+          "expected_output": 10
+        },
+      "actual code output": ""
+    },
+    {
+      "name": "test 2",
+      "points": 10,
+      "description": "The code with the specified input returns the expected output",
+      "test":
+        {
+          "input": "-2",
+          "expected_output": 4
+        },
+      "actual code output": ""
+    },
+    {
+      "name": "test 3",
+      "points": 10,
+      "description": "The code with the specified input returns the expected output",
+      "test":
+        {
+          "input": "3.6",
+          "expected_output": 7
+        },
+      "actual code output": ""
+    }
+  ]
+}

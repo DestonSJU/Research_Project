@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Small changes for Report 3">
+    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Changes for Report 3">
+      <change afterPath="$PROJECT_DIR$/Grading_App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grading_AppV0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grading_AppV0_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grading_AppV0_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grading_Appv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grading_Appv3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Files/Grading Rubric 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Files/Grading Rubric 3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/File_App.py" beforeDir="false" afterPath="$PROJECT_DIR$/File_App.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Files/Java_Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Java_Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Files/Java_Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Java_Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +42,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/DestonSJU/Research_Project.git&quot;,
-    &quot;accountId&quot;: &quot;fb249f5e-7b95-4c09-9d71-a5ffeef25c77&quot;
+    &quot;accountId&quot;: &quot;c74ea1da-85ad-4c10-96f0-636b7ca0b8e6&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,22 +64,22 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Deston/PycharmProjects/Research_Project/Test_Files&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/desto/PycharmProjects/Research_Project/Test_Files&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\desto\PycharmProjects\Research_Project\Test_Files" />
       <recent name="C:\Users\Deston\PycharmProjects\Research_Project\Test_Files" />
       <recent name="C:\Users\desto\PycharmProjects\Research_Project" />
-      <recent name="C:\Users\desto\PycharmProjects\Research_Project\Test_Files" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -94,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776347476059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Small changes for Report 3">
+      <option name="closed" value="true" />
+      <created>1776357570863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776357570863</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes for Report 3">
+      <option name="closed" value="true" />
+      <created>1776357847963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776357847963</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upload required python packages" />
     <MESSAGE value="Small changes for Report 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small changes for Report 3" />
+    <MESSAGE value="Changes for Report 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes for Report 3" />
   </component>
 </project>
