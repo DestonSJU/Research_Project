@@ -4,56 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Changes for Report 3">
-      <change afterPath="$PROJECT_DIR$/Grading_AppV4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Grading Rubric 3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_A_Grade.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_B_Grade_1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_B_Grade_2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_C_Grade.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_D_Grade.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_E_Grade.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_F_Grade_1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_F_Grade_2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_G.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_G_Grade.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_H.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_H_Grade_1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_H_Grade_2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_I_Grade.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_J.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Final Report Tests/Student_J_Grade.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Java_Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Java_Test6.java" afterDir="false" />
+    <list default="true" id="964004c1-aeef-4720-b7f1-666b23305b3c" name="Changes" comment="Changes for Final Report">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old Python Files/App.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Example.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_App.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grading_App.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grading_AppV0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grading_AppV0_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grading_AppV0_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grading_Appv2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Local_Model_Basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old Python Files/Local_Model_Basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old_File_App.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old Python Files/Old_File_App.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Grading Rubric 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Grading Rubric 1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Grading Rubric 2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Grading Rubric 2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Grading Rubric 3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Java_Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Java_Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Java_Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Java_Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Java_Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Java_Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Java_Test4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Text1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Text1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Text2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Text2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Files/Text3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Files/Report 1-3 Files/Text3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +53,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/desto/PycharmProjects/Research_Project/Test_Files/Final Report Tests",
+    "last_opened_file_path": "C:/Users/desto/PycharmProjects/Research_Project",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
@@ -113,10 +65,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\desto\PycharmProjects\Research_Project" />
       <recent name="C:\Users\desto\PycharmProjects\Research_Project\Test_Files\Final Report Tests" />
       <recent name="C:\Users\desto\PycharmProjects\Research_Project\Test_Files" />
       <recent name="C:\Users\Deston\PycharmProjects\Research_Project\Test_Files" />
-      <recent name="C:\Users\desto\PycharmProjects\Research_Project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\desto\PycharmProjects\Research_Project\Test_Files\Report 1-3 Files" />
@@ -183,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776964461116</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changes for Final Report">
+      <option name="closed" value="true" />
+      <created>1777951829337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777951829337</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changes for Final Report">
+      <option name="closed" value="true" />
+      <created>1777952064231</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777952064231</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +161,7 @@
     <MESSAGE value="Upload required python packages" />
     <MESSAGE value="Small changes for Report 3" />
     <MESSAGE value="Changes for Report 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes for Report 3" />
+    <MESSAGE value="Changes for Final Report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes for Final Report" />
   </component>
 </project>
