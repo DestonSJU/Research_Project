@@ -1,0 +1,60 @@
+{
+  "criteria": [
+    {
+      "name": "Compilation",
+      "points": 40,
+      "description": "The original code compiles and runs without errors. 10 points are deducted from compilation if there are any syntax error in the original code",
+      "actual code output": ""
+    },
+    {
+      "name": "Test 1",
+      "points": 15,
+      "description": "The code with the specified input returns the expected output",
+      "test":
+        {
+          "input": 5,
+          "expected_output": 10.0
+        },
+      "actual code output": ""
+    },
+    {
+      "name": "Test 2",
+      "points": 15,
+      "description": "The code with the specified input returns the expected output",
+      "test":
+        {
+          "input": -2,
+          "expected_output": 4.0
+        },
+      "actual code output": ""
+    },
+    {
+      "name": "Test 3",
+      "points": 15,
+      "description": "The code with the specified input returns the expected output",
+      "test":
+        {
+          "input": 3.6,
+          "expected_output": 7.0
+        },
+      "actual code output": ""
+    },
+    {
+      "name": "Test 4",
+      "points": 15,
+      "description": "The code with the specified input returns the expected output",
+      "test":
+        {
+          "input": 7.8,
+          "expected_output": 16.0
+        },
+      "actual code output": ""
+    },
+    {
+      "name": "Final Grade",
+      "points": 100,
+      "description": "This is the total points based on the points from the other criteria. The final grade is out of 100 points. Calculate it by adding Compilation earned points + Test1 Earned Points + Test2 Earned Points + Test3 Earned Points + Test4 Earned Points",
+      "final grade": ""
+    }
+  ]
+}

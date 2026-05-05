@@ -23,7 +23,7 @@ def java_compiler(code: str):
     with tempfile.TemporaryDirectory() as tmpdir:
         # Create a temporary Directory to run the code in and copy the code to a file inside it
         base_directory = os.path.dirname(os.path.abspath(__file__))
-        java_bin = os.path.join(base_directory, "OpenJDK25U", "jdk-25.0.2+10", "bin")
+        java_bin = os.path.join(base_directory, "../OpenJDK25U", "jdk-25.0.2+10", "bin")
         match = re.search(r'class\s+(\w+)', code)
         if match:
             class_name = match.group(1)
